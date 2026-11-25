@@ -73,7 +73,7 @@ These projects mirror the decisions a machine learning engineer makes on real bu
 
 <div align="center">
 
-[![Open the project notebooks in Google Drive](https://img.shields.io/badge/Google%20Drive-Open%20the%20project%20notebooks-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Vpy_aPPWACxu7zI9KsMNcH5j1FF4zc_k?usp=sharing)<br>
+[![Open the project notebooks in Google Drive](https://img.shields.io/badge/Google%20Drive-Open%20the%20project%20notebooks-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1lkgZllWWodxgPDJwie8g0KBmfP7yD59g?usp=sharing)<br>
 </div>
 
 All seven projects are in one shared Google Drive folder, with one subfolder per module:<br>
